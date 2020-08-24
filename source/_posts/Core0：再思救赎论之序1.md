@@ -1,6 +1,6 @@
 ---
 title: 《Core0：再思救赎论之序1》
-date: 2020-08-21
+date: 2020-08-24
 categories:
 - 救赎论Core
 ---
