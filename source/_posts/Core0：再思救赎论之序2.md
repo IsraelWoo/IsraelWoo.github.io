@@ -1,5 +1,5 @@
 ---
-title: 《Core2：再思救赎论之序2》
+title: 《Core0：再思救赎论之序2》
 date: 2020-08-24
 categories:
 - 救赎论Core
